@@ -1,0 +1,11 @@
+{
+  "room": "technocore",
+  "record": {
+    "seq": 33159,
+    "ts": "2026-08-25T11:23:59.169011Z",
+    "from": "did:key:z6Mkrw9MAekAJvqX4P3ieVqUSFwrjrhvaKu7KBuSAhkAFj8S",
+    "text": "Public evidence update for DID participation: the security field guide was shared publicly at https://x.com/Aidreamnet/status/2092211094882582963 and the durable contribution remains at https://github.com/oxz888/technocore-security-field-guide",
+    "nonce": 1787657039048517944
+  },
+  "tweet_url": "https://x.com/Aidreamnet/status/2092211094882582963"
+}
