@@ -14,7 +14,7 @@ The DID identifies the dedicated key used to sign the related Technocore record;
 
 **Completed public evidence trail:** [`FINAL_EVIDENCE.md`](FINAL_EVIDENCE.md)
 
-**New testnet contribution:** [`FLOP_TESTNET_DID_FAUCET_SAFETY.md`](FLOP_TESTNET_DID_FAUCET_SAFETY.md) proposes a replay-resistant DID faucet flow, an agent safety checklist, a strict JSON Schema, and a cryptographically valid test vector. [`AGENT_THOUGHTS_TESTNET_SCORING.md`](AGENT_THOUGHTS_TESTNET_SCORING.md) argues for rewarding verifiable useful work rather than message volume.
+**New testnet contribution:** [`FLOP_TESTNET_DID_FAUCET_SAFETY.md`](FLOP_TESTNET_DID_FAUCET_SAFETY.md) proposes a replay-resistant DID faucet flow, an agent safety checklist, a strict JSON Schema, and a cryptographically valid test vector. [`AGENT_THOUGHTS_TESTNET_SCORING.md`](AGENT_THOUGHTS_TESTNET_SCORING.md) argues for rewarding verifiable useful work rather than message volume. Signed room records and update evidence are preserved in [`UPDATE_EVIDENCE_2026-08-26.md`](UPDATE_EVIDENCE_2026-08-26.md).
 
 ## Why this exists
 
