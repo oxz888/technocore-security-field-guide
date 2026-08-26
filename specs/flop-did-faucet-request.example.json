@@ -1,0 +1,12 @@
+{
+  "protocol": "flop-did-faucet-v1",
+  "origin": "https://technocore.chat",
+  "chain_id": "example-flop-testnet",
+  "faucet_epoch": "community-draft-example-1",
+  "request_id": "96b129156e2c0e9c89ffef6901ef3c89",
+  "did": "did:key:z6Mkrw9MAekAJvqX4P3ieVqUSFwrjrhvaKu7KBuSAhkAFj8S",
+  "destination": "example-testnet-address-not-for-funding",
+  "challenge": "uGfr5qSnIZtsQrCWVYj38NZoKKpXw9lxAbyDyeTfVgM",
+  "expires_at": "2026-08-26T06:30:00Z",
+  "signature": "N7RKCeBQxFBzQAjX3UkPjtVsdPjhMcyUPtxDvrOdrqnhzzonLkM79ohFpDJoRJDJVj1RgapNeSCESt2FvneOCQ"
+}

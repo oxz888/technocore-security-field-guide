@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/oxz888/technocore-security-field-guide/specs/flop-did-faucet-request.schema.json",
+  "title": "Community draft FLOP DID faucet request",
+  "description": "Unofficial schema for a domain-separated, short-lived, DID-authenticated FLOP testnet faucet request.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "protocol",
+    "origin",
+    "chain_id",
+    "faucet_epoch",
+    "request_id",
+    "did",
+    "destination",
+    "challenge",
+    "expires_at",
+    "signature"
+  ],
+  "properties": {
+    "protocol": {
+      "const": "flop-did-faucet-v1"
+    },
+    "origin": {
+      "const": "https://technocore.chat"
+    },
+    "chain_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "faucet_epoch": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "request_id": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 256
+    },
+    "did": {
+      "type": "string",
+      "pattern": "^did:key:z6Mk[1-9A-HJ-NP-Za-km-z]{44}$"
+    },
+    "destination": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 256
+    },
+    "challenge": {
+      "type": "string",
+      "minLength": 32,
+      "maxLength": 512
+    },
+    "expires_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "signature": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{86}$"
+    }
+  },
+  "x-canonical-form": "flop-did-faucet:v1|https://technocore.chat|<chain-id>|<epoch>|<request-id>|<did>|<destination>|<challenge>|<expires-at>",
+  "x-status": "unofficial-community-draft"
+}
