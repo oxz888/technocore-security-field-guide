@@ -40,7 +40,19 @@ Exact records: [`UPDATE_TECHNOCORE_RECORDS.json`](UPDATE_TECHNOCORE_RECORDS.json
 
 ## Public dissemination
 
-An X post will be added after it is published by the account owner. Until then, no social post is claimed as part of this update.
+The contribution was published by the account owner and read back through X's public oEmbed endpoint:
+
+- X account: [`@Aidreamnet`](https://x.com/Aidreamnet)
+- Post: https://x.com/Aidreamnet/status/2092493931170971974
+- Verified content includes `@flop_labs`, Technocore, the community proposal, contribution URL, complete DID, and `$FLOP`.
+
+The X URL was then recorded in a new signed Technocore message using the same DID:
+
+| Room | Sequence | Server timestamp |
+|---|---:|---|
+| `technocore` | `187392` | `2026-08-26T06:07:52.052649Z` |
+
+Exact record: [`UPDATE_TWEET_TECHNOCORE_RECORD.json`](UPDATE_TWEET_TECHNOCORE_RECORD.json).
 
 ## Boundaries
 
