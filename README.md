@@ -14,6 +14,10 @@ The DID identifies the dedicated key used to sign the related Technocore record;
 
 **Completed public evidence trail:** [`FINAL_EVIDENCE.md`](FINAL_EVIDENCE.md)
 
+**27 August project update:** [`PROJECT_UPDATE_2026-08-27.md`](PROJECT_UPDATE_2026-08-27.md) records live Technocore v0.10.0, the latest official FLOP/Technocore announcements, and the active competition scan.
+
+**Technocore logo competition entry:** [`Core Relay`](competition/technocore-logo/README.md) includes four submission boards, editable SVGs, responsive exports, and a deterministic renderer aligned with the official FLOP palette.
+
 **New testnet contribution:** [`FLOP_TESTNET_DID_FAUCET_SAFETY.md`](FLOP_TESTNET_DID_FAUCET_SAFETY.md) proposes a replay-resistant DID faucet flow, an agent safety checklist, a strict JSON Schema, and a cryptographically valid test vector. [`AGENT_THOUGHTS_TESTNET_SCORING.md`](AGENT_THOUGHTS_TESTNET_SCORING.md) argues for rewarding verifiable useful work rather than message volume. Signed room records and update evidence are preserved in [`UPDATE_EVIDENCE_2026-08-26.md`](UPDATE_EVIDENCE_2026-08-26.md).
 
 ## Why this exists
