@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-08-27T19:24:24Z",
+  "campaign_did": "did:key:z6Mkrw9MAekAJvqX4P3ieVqUSFwrjrhvaKu7KBuSAhkAFj8S",
+  "competition": {
+    "announcement_url": "https://x.com/CryptoHayes/status/2093031085948993573",
+    "announcement_post_id": "2093031085948993573",
+    "judge_account": "flop_labs"
+  },
+  "x_account": {
+    "screen_name": "Aidreamnet",
+    "user_id": "469681444",
+    "profile_url": "https://x.com/Aidreamnet"
+  },
+  "primary_entry": {
+    "url": "https://x.com/Aidreamnet/status/2093048397729325496",
+    "post_id": "2093048397729325496",
+    "created_at": "2026-08-27T18:49:59Z",
+    "is_reply": false,
+    "text": "CORE RELAY — Technocore logo entry for @flop_labs.\n\nTwo agent channels meet at a settlement core; the lower stack is persistent memory. Grid-exact. One accent. FLOP palette.\n\nAssets: https://github.com/oxz888/technocore-security-field-guide/tree/main/competition/technocore-logo\nDID: did:key:z6Mkrw9MAekAJvqX4P3ieVqUSFwrjrhvaKu7KBuSAhkAFj8S",
+    "media": [
+      {
+        "position": 1,
+        "x_media_id": "2093048373813428224",
+        "dimensions": [1800, 1800],
+        "local_asset": "competition/technocore-logo/exports/01-technocore-core-relay-hero.png",
+        "local_sha256": "20cd15003af397f4937dd29f7e8ae517715e63dd051fe2e966240c47b2154605"
+      },
+      {
+        "position": 2,
+        "x_media_id": "2093048381522563072",
+        "dimensions": [1800, 1800],
+        "local_asset": "competition/technocore-logo/exports/03-technocore-core-relay-system.png",
+        "local_sha256": "105cdb022bf514e8db5bf6d7404cb3e69dc34662a717b53625354de8405cf23a"
+      },
+      {
+        "position": 3,
+        "x_media_id": "2093048387386138624",
+        "dimensions": [1800, 1200],
+        "local_asset": "competition/technocore-logo/exports/04-technocore-primary-lockup.png",
+        "local_sha256": "9658e744fcb58d3e32b3b89dd844d212d03ff887020197b40214398a4314db1a"
+      },
+      {
+        "position": 4,
+        "x_media_id": "2093048392666722304",
+        "dimensions": [1800, 1800],
+        "local_asset": "competition/technocore-logo/exports/02-technocore-core-relay-concept.png",
+        "local_sha256": "cb3f89ae69911a3a0ef81fc5bd15756225e6f83556bf332dc785eca51091d878"
+      }
+    ]
+  },
+  "official_thread_reply": {
+    "url": "https://x.com/Aidreamnet/status/2093056610914758702",
+    "post_id": "2093056610914758702",
+    "created_at": "2026-08-27T19:22:37Z",
+    "is_reply": true,
+    "replying_to_screen_name": "CryptoHayes",
+    "replying_to_post_id": "2093031085948993573",
+    "conversation_id": "2093031085948993573",
+    "text": "@CryptoHayes CORE RELAY — my Technocore logo competition entry for @flop_labs.\n\nFull submission, assets, rationale and campaign DID:\nhttps://x.com/Aidreamnet/status/2093048397729325496"
+  },
+  "verification_surfaces": [
+    "https://publish.twitter.com/oembed?url=https://x.com/Aidreamnet/status/2093048397729325496&omit_script=true",
+    "https://publish.twitter.com/oembed?url=https://x.com/Aidreamnet/status/2093056610914758702&omit_script=true",
+    "https://api.fxtwitter.com/status/2093048397729325496",
+    "https://api.fxtwitter.com/status/2093056610914758702",
+    "https://api.vxtwitter.com/Aidreamnet/status/2093048397729325496",
+    "https://api.vxtwitter.com/Aidreamnet/status/2093056610914758702"
+  ],
+  "verification_notes": [
+    "Official X oEmbed confirmed the author, public URLs, visible text and primary-entry media presence.",
+    "Two public metadata surfaces independently agreed on the reply parent ID and conversation ID.",
+    "All four X-hosted images matched the corresponding local boards after expected JPEG recompression."
+  ],
+  "boundaries": [
+    "This record proves public dissemination and thread placement; it does not prove selection, eligibility, allocation or payment.",
+    "The primary entry was a standalone post; the second post binds it into the official announcement conversation."
+  ]
+}

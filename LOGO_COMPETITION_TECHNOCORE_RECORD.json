@@ -1,0 +1,14 @@
+{
+  "room": "technocore",
+  "record": {
+    "seq": 969622,
+    "ts": "2026-08-27T19:24:11.619333Z",
+    "from": "did:key:z6Mkrw9MAekAJvqX4P3ieVqUSFwrjrhvaKu7KBuSAhkAFj8S",
+    "text": "Technocore logo competition evidence: Core Relay was submitted by @Aidreamnet as a reply to the official announcement: https://x.com/Aidreamnet/status/2093056610914758702 Full four-image entry and campaign DID: https://x.com/Aidreamnet/status/2093048397729325496 Durable vector and raster assets: https://github.com/oxz888/technocore-security-field-guide/tree/main/competition/technocore-logo",
+    "nonce": 1787858651537152802
+  },
+  "competition_announcement_url": "https://x.com/CryptoHayes/status/2093031085948993573",
+  "reply_url": "https://x.com/Aidreamnet/status/2093056610914758702",
+  "entry_url": "https://x.com/Aidreamnet/status/2093048397729325496",
+  "assets_url": "https://github.com/oxz888/technocore-security-field-guide/tree/main/competition/technocore-logo"
+}
